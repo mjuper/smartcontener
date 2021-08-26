@@ -1,9 +1,5 @@
 pragma solidity 0.8.4;
 
-    /**
-     * @dev first token on bschain
-     */
-     
 
 contract CeriabscToken {
     string public name = "Ceria Token";
